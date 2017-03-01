@@ -1,9 +1,12 @@
 [submodule "vendor/tmux-mem-cpu-load"]
 	path = vendor/tmux-mem-cpu-load
 	url = git://github.com/thewtex/tmux-mem-cpu-load.git
+    ignore=dirty
 [submodule "tmux-resurrect"]
 	path = tmux-resurrect
 	url = https://github.com/tmux-plugins/tmux-resurrect
+    ignore=dirty
 [submodule "tmux-config"]
 	path = tmux-config
 	url = https://github.com/tony/tmux-config.git
+    ignore=dirty
