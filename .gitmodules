@@ -6,7 +6,3 @@
 	path = tmux-resurrect
 	url = https://github.com/tmux-plugins/tmux-resurrect
     ignore=dirty
-[submodule "tmux-config"]
-	path = tmux-config
-	url = https://github.com/tony/tmux-config.git
-    ignore=dirty
